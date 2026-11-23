@@ -68,7 +68,7 @@ Also the more trials there are, the closer we will move to the average, for 100 
 
 ## Short vs. Long Encounters
 
-This means on short encounters our performance can vary significantly, if you are in a raid with high DPS performance, you are more likely to set new records, because volatility on shorter time windows can help, this is what I noticed on my mage on Brutallus when we were all BiS, I could do 3.4k+ DPS. But also you are more likely to underperform. If the encounter is long, then the numbers will tend to lean toward the average values. Your performance will be consistent, but getting lucky RNG to set new rocords will be much more unlikely.
+This means on short encounters our performance can vary significantly, if you are in a raid with high DPS performance, you are more likely to set new records, because volatility on shorter time windows can help, this is what I noticed on my mage on Brutallus when we were all BiS, I could do quite consistently 3k+ DPS, sometimes 3.4k, while other full BiS mages did on average 2.5k. If the encounter is long, then the numbers will tend to lean toward the average values. Your performance will be consistent, but getting lucky RNG to set new rocords will be much more unlikely.
 
 ## Effect of sucessful trial rating on volatility
 
