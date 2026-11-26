@@ -10,7 +10,7 @@ To navigate the archive, expand the graph view. You can view this way easily whi
 
 We follow the math to tell us the answers. Following the path leads us usually to the same mainstream conclusion/meta, but sometimes not, or give us a new perspective. This archive might be valuable to the curious player, who asks how things work and is not satisfied with a guide saying "use this item, just because trust me". On the other hand for majority of players this archive will be of low value, because you will not find any such statement here.
 
-Also remember a game should be enjoyed. If you enjoy the math behind it like I do, you are in the right place, if you don't, I like exploring, or lore and roleplaying too!
+Also remember a game should be enjoyed. If you enjoy the math behind it like I do, you are in the right place, if you don't, I like exploring, or lore and roleplaying too! Just it is not what this archive is about.
 
 Want to join the project? So far it is only me. Join the discussion here: https://discord.gg/yZaY2NjC
 
